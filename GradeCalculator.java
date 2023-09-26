@@ -1,3 +1,5 @@
+//Code Written By Vivek Bhosale
+//Only for Internship
 import java.util.Scanner;
 
 public class GradeCalculator {
