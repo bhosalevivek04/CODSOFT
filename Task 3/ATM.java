@@ -1,9 +1,11 @@
+//Code Written By Vivek Bhosale
+//Only for Internship
 import java.util.Scanner;
 
 public class ATM {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        double initialBalance = 1000.0; // Initial account balance
+        double initialBalance = 1000.0;     // Initial account balance
 
         BankAccount userAccount = new BankAccount(initialBalance);
 
