@@ -1,3 +1,5 @@
+//Code Written By Vivek Bhosale
+//Only for Internship
 public class BankAccount {
     private double balance;
 
